@@ -26,7 +26,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 app.get("/", (req: Request, res: Response) => {
-  res.status(200).send("Hello World!");
+  res.status(200).send("Express Typescript TypeORM Starter API is running successfully!");
 });
 
 app.use("/auth", authRouter);
