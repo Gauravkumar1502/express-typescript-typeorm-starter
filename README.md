@@ -18,8 +18,8 @@ A boilerplate project for quickly setting up an Express.js application with Type
 1. Clone the Repository
 
     ```bash
-    git clone https://github.com/your-username/typescript-typeorm-starter.git
-    cd typescript-typeorm-starter
+    git clone https://github.com/Gauravkumar1502/express-typescript-typeorm-starter.git
+    cd express-typescript-typeorm-starter
     ```
 
 2. Install Dependencies
@@ -116,8 +116,8 @@ Follow these steps to recreate this starter project from scratch:
     - Start with a new Node.js project:
 
         ```bash
-        mkdir typescript-typeorm-starter
-        cd typescript-typeorm-starter
+        mkdir express-typescript-typeorm-starter
+        cd express-typescript-typeorm-starter
         npm init -y
         ```
 
